@@ -143,5 +143,5 @@ src
 
 ## License This software is licensed under the terms of the [MIT]
 
-⌨️ FelipeAguiar -
-[Github](https://github.com/felipeAguiarCode)
+⌨️ Thiago574 -
+[Github](https://github.com/Thiago574)
