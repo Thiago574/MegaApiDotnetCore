@@ -54,28 +54,26 @@
   <tr>
     <td>GET</td>
     <td>/api/v1/robots</td>
-    <td>Returns a list of all robots</td>
+    <td>Retorna uma lista de todos os robôs.</td>
   </tr>
   <tr>
     <td>GET</td>
     <td>/api/v1/robots/{id}</td>
-    <td>Returns details of a specific robot by ID</td>
+    <td>Retorna os detalhes de um robô específico pelo ID.</td>
   </tr>
   <tr>
     <td>POST</td>
     <td>/api/v1/robots</td>
-    <td>Endpoint to create a new robot entry</td>
+    <td>"Endpoint para criar uma nova entrada de robô."</td>
   </tr>
 </table>
 
 ## Techniques Used
 
 <p align="center">
-  - <b>Entity Framework Core:</b> ORM for data management.<br />
-  - <b>RESTful API Design:</b> Ensures clear and effective communication
-  endpoints.<br />
-  - <b>Dependency Injection:</b> Used throughout to promote loose coupling and
-  enhanced testability.<br />
+  - <b>Entity Framework Core:</b> ORM para gerenciamento de dados.<br />
+  - <b>RESTful API Design:</b> Garante comunicação clara e eficaz nos endpoints.<br />
+  - <b>Dependency Injection:</b> Usado amplamente para promover baixo acoplamento e maior testabilidade.<br />
 </p>
 
 ## Dependencies
