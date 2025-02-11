@@ -20,9 +20,9 @@
       alt=""
     />
   </a>
-  <a href="https://github.com/felipeAguiarCode/MegaApiDotnetCore/releases/latest">
+  <a href="https://github.com/Thiago574/MegaApiDotnetCore/releases/latest">
     <img
-      src="https://img.shields.io/github/v/release/felipeAguiarCode/MegaApiDotnetCore"
+      src="https://img.shields.io/github/v/release/Thiago574/MegaApiDotnetCore"
       alt="Latest Release"
     />
   </a>
