@@ -1,7 +1,7 @@
 <h1 align="center">
   <br />
   <img
-    src="./_docs/assets/download.jpeg"
+    src="./_docs/assets/download-removebg-preview.png"
     alt="Mega Man Robots API"
     width="150"
   />
