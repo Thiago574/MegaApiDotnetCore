@@ -64,7 +64,7 @@
   <tr>
     <td>POST</td>
     <td>/api/v1/robots</td>
-    <td>"Endpoint para criar uma nova entrada de robô."</td>
+    <td>Endpoint para criar uma nova entrada de robô.</td>
   </tr>
 </table>
 
@@ -127,16 +127,16 @@
 
 ```🌐
 src
-├── 📂 Controllers      [Routes for endpoints]
-├── 📂 Models           [Database models]
-├── 📂 Services         [Business rules]
-├── 📂 Middlewares      [Intermediate functions between the HTTP request and the final server response]
-├── 📂 Database         [Structures related to the database]
-│   ├── 📂 DTOs             [Input Models and View Models (Data Transfer Objects)]
-│   ├── 📂 EntityFramework  [Files related to the ORM Entity Framework]
-│   │     ├── 📂 Context         [Entity context settings]
-│   │     ├── 📂 Migrations      [Migrations for database updates]
-│   ├── 📂 Repositories     [Repository pattern]
+├── 📂 Controllers      [Rotas para os endpoints]
+├── 📂 Models           [Modelos do banco de dados]
+├── 📂 Services         [Regras de negócio]
+├── 📂 Middlewares      [Funções intermediárias entre a requisição HTTP e a resposta final do servidor]
+├── 📂 Database         [Estruturas relacionadas ao banco de dados]
+│   ├── 📂 DTOs             [Modelos de Entrada e Modelos de Visualização (Data Transfer Objects)]
+│   ├── 📂 EntityFramework  [Arquivos relacionados ao ORM Entity Framework]
+│   │     ├── 📂 Context         [Configurações do contexto do Entity]
+│   │     ├── 📂 Migrations      [Migrações para atualizações no banco de dados]
+│   ├── 📂 Repositories     [Padrão de repositório]
 ```
 
 ## License This software is licensed under the terms of the [MIT]
